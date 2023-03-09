@@ -1,1 +1,1 @@
-creating scriptipt in my current absolute path
+listing all  files
