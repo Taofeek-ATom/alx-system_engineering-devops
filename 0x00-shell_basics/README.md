@@ -1,1 +1,1 @@
-display current including hidden files
+display cuureent list with ids and hidden files 
