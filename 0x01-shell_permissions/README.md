@@ -1,1 +1,1 @@
-changing mode using the mirror mod
+adding permissions to sub directories
