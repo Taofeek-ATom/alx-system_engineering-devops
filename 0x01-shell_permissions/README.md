@@ -1,1 +1,1 @@
-everybody with execution
+permission to only other user
