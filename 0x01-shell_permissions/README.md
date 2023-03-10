@@ -1,1 +1,1 @@
- six multiple permissions
+everybody with execution permission
