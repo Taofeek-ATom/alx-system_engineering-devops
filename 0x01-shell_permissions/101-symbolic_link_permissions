@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff symlnk_hello
+chown vincent:staff hello_symlink
