@@ -1,1 +1,1 @@
-permission to only other user
+changing the mod of  the file
