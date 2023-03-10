@@ -1,1 +1,1 @@
-everybody with execution permission
+writing a script that adds all of them
