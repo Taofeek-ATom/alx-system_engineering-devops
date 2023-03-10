@@ -1,1 +1,1 @@
-writing a script that adds all of them
+everybody with execution
