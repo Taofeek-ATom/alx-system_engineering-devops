@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrp vincent /u staff /g
+sudo chgrp u/vincent g/staff
