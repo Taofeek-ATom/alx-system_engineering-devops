@@ -1,3 +1,2 @@
 #!/bin/bash
-chown betty 0x01-shell_permissions 
-0-iambetty
+chown betty 0x01-shell_permissions
