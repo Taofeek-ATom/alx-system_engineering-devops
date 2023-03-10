@@ -1,1 +1,1 @@
-display cuureent list with ids and hidden files 
+creating a file that makes a dirctory
