@@ -1,1 +1,1 @@
- addind an execution to the file
+ six multiple permissions
