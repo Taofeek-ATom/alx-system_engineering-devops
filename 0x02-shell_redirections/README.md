@@ -1,1 +1,1 @@
-display contents using etc passwd and etc hosts
+last 10 lines in etc passwd
