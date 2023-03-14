@@ -1,1 +1,1 @@
-not displaying whats in the bin
+letters only
