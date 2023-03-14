@@ -1,1 +1,1 @@
-creating a shell script
+ shell redirection
