@@ -1,1 +1,1 @@
-uniqueness output
+to find the word 
