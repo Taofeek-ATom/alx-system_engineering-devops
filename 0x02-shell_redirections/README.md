@@ -1,1 +1,1 @@
-count that word
+displaying lines with pattern and a given number of line
