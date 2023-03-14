@@ -1,1 +1,1 @@
- deletes js 
+making your directories count
