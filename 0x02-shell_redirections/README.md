@@ -1,1 +1,1 @@
-last 10 lines in etc passwd
+ first 5 lines 
